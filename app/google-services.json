@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103771674992",
+    "project_id": "kotha-barta-a976b",
+    "storage_bucket": "kotha-barta-a976b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103771674992:android:12fa5a91b6aefee1e017b5",
+        "android_client_info": {
+          "package_name": "com.devmare.kothabarta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUVQPj16ykouFr3tjiIdMJxSqvL0fY8fU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
